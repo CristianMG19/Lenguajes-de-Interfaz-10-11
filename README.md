@@ -7,10 +7,10 @@ Repositorio de prácticas realizadas durante la unidad de **Lenguajes de Interfa
 | Dato | Información |
 |---|---|
 | **Materia** | Lenguajes de Interfaz |
-| **Unidad** | *Por completar* |
+| **Unidad** | 2 |
 | **Alumno** | Medina González Cristian Roberto |
 | **Matrícula** | 23170234 |
-| **Horario** | *Por completar* |
+| **Horario** | 10:00 - 11:00|
 | **Docente** | Ing. José Luis Medina Jiménez |
 
 ## Índice de prácticas
