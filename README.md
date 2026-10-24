@@ -15,7 +15,7 @@ Repositorio de prácticas realizadas durante la unidad de **Lenguajes de Interfa
 
 ## Índice de prácticas
 
-Cada enlace dirige al archivo fuente `.asm` correspondiente.
+Cada archivo fuente `.asm` correspondiente a la practica.
 
 | N.º | Práctica |
 |---|---|
